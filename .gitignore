@@ -13,3 +13,8 @@ test/watch-*.txt
 gulp.1
 ngrok
 python
+dist/
+/node_modules
+gulpfile.js
+package-lock.json
+package.json
